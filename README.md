@@ -5,4 +5,4 @@
 </p>
 <p>Encore plus de lol sur <a href="http://bonjourladroite.tumblr.com/" target="_blank" title="Site Bonjour la droite">Bonjour la droite !</a></p>
 <h2>GNU General Public License</h2>
-<p>This software is the property of <strong>Florian Petit</strong> and licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.txt" title="GNU Genral Public License" target="_blank">GNU Genral Public License</a>.</p>
+<p>This software is the property of <strong>Bonjour la Droite</strong> and licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.txt" title="GNU Genral Public License" target="_blank">GNU Genral Public License</a>.</p>
